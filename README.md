@@ -102,6 +102,9 @@ calci.html
 ## OUTPUT:
 ![output of calculator](images/calculator.png)
 
+### HTML Validator:
+![output html](images/calcivalidator.png)
+
 ## Result:
 The program for designing a simple calculator using JavaScript is executed successfully.
 
